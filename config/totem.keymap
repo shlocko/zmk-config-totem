@@ -25,7 +25,7 @@
 #define TVP2 5
 
 &mt {
-    flavor = "tap-preferred";
+    flavor = "tap-unless-interrupted";
     tapping-term-ms = <150>;
 };
 
